@@ -1,0 +1,5 @@
+* Variables = Es un espacio donde se puede guardar un valor, un dato.
+* Strings = Es un tipo de valor que puede adoptar las variables y estan formado por caracteres comprendidos dentro de comillas 
+* Funciones (argumentos, `return`) = Sirve para poder realizar un comando predeterminado, que generalmente recibe datos para procesar un comando o no.
+* Declaraciones `if` = Es un condicional, que te permite declarar que SI se cumple tal condición pueda realizar una acción especifica.
+* Valores booleanos (`true`, `false`) = Es una variable que tiene solamente 2 valores, Verdadero y Falso. 
