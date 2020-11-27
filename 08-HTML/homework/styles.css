@@ -4,13 +4,13 @@ h1 {
 }
 
 img{
-	height: 400px;
+	width: 400px;
 }
 
 #ThirdDiv{
-	height: 500px;
-	width: 600px;
-	background-color: blue;
+	height: 600px;
+	width: 500px;
+	background-color: #FFC733;
 	padding: 50px;
 	border: 10px solid red;
 }
